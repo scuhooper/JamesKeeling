@@ -307,9 +307,9 @@ NVMCClient.onInitialize = function () {
 
     this.texture_street = this.createTexture(gl, 				NVMC.resource_path+'textures/street4.png');
     this.texture_ground = this.createTexture(gl, 				NVMC.resource_path+'textures/grass_tile_003_col.png');
-    NVMCClient.texture_facade.push(this.createTexture(gl,       NVMC.resource_path+'textures/facade1.jpg'));
-    NVMCClient.texture_facade.push(this.createTexture(gl,       NVMC.resource_path+'textures/facade2.jpg'));
-    NVMCClient.texture_facade.push(this.createTexture(gl,       NVMC.resource_path+'textures/facade3.jpg'));
+    NVMCClient.texture_facade.push(this.createTexture(gl,       NVMC.resource_path+'textures/building1.jpg'));
+    NVMCClient.texture_facade.push(this.createTexture(gl,       NVMC.resource_path+'textures/building2.jpg'));
+    NVMCClient.texture_facade.push(this.createTexture(gl,       NVMC.resource_path+'textures/building3.jpg'));
     NVMCClient.texture_roof = this.createTexture(gl,			NVMC.resource_path+'textures/concreteplane2k.jpg');
 
 
