@@ -1,6 +1,5 @@
-<p align="center">
-  <h1>James Keeling</h1>
-  
+<h1 align="center">James Keeling</h1>
+<p align="center">  
   Student Game Developer
 </p>
 
