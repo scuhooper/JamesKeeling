@@ -1,8 +1,12 @@
-<h1 align="center">Contact Information</h1>
-<p align="center">Email: james.f.keeling@gmail.com</p>
-<p align="center">Phone: (304)881-8326</p>
-<p align="center">[Github Profile](https://github.com/scuhooper)</p>
-<p align="center">[LinkedIn Profile](https://www.linkedin.com/in/james-keeling-662aa199/)</p>
+# Contact Information
+
+Email: james.f.keeling@gmail.com
+
+Phone: (304)881-8326
+
+[Github Profile](https://github.com/scuhooper)
+
+[LinkedIn Profile](https://www.linkedin.com/in/james-keeling-662aa199/)
 
 
 # Projects
