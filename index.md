@@ -1,13 +1,18 @@
 <p align="center">
-  # James Keeling
+  <h1>James Keeling</h1>
+  
   Student Game Developer
 </p>
 
 ## Contact Information
 Email: james.f.keeling@gmail.com
+
 Phone: (304)881-8326
+
 [Github Profile](https://github.com/scuhooper)
+
 [LinkedIn Profile](https://www.linkedin.com/in/james-keeling-662aa199/)
+
 
 ## Projects
 Here is a quick collection of some of the milestone projects I have worked on throughout my college career. The projects are C++ for Unreal Engine and C# for Unity. The game name header links to the repo hosting the project and the images for the game link to a video demonstrating some of the game.
@@ -23,4 +28,5 @@ This is a group project made for a class. It is 2D version of something like _Ro
 
 ### [Dragoon](https://github.com/scuhooper/Dragoon) - In Development - Made with Unreal Engine 4
 _Dragoon_ is a project which I am currently working on as a capstone project. While the name of the repo is _Dragoon_, the game currently being made with the work is titled _Cyberpunk'd_ and puts the player as a newly created anti-virus inside of a server seeking to regain control of root. The game is a third-person perspective action game focusing on sword combat similar to _Assassin's Creed_, _The Witcher_, and _Dynasty Warriors_.
+
 The major mechanics I have implemented into the game is my take on a solution to the kung fu circle (where enemies surround the player but only ever attack one at a time), a directional grid based attack system where the player can choose the direction of their attacks similar to _Star Wars Jedi Knight: Jedi Academy_, and a prediction system using N-grams to analyze patterns in attacks from history and attempt to predict what the player will do next.
