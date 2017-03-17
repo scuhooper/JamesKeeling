@@ -15,6 +15,8 @@ Here is a quick collection of some of the milestone projects I have worked on th
 ## [Viscountess](https://github.com/scuhooper/viscountess) - Made with Unity
 _The Viscountess_ is the first game I made. It is a simple 2D sidescrolling, shoot-em-up where the player controlls a starship called _The Viscountess_ and destroys endless waves of enemy ships until colliding with one. The player can also collect Missiles which are able to destroy ships in one hit. It is reminiscent of _Galaga_.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NX6LNOobG_o" frameborder="0" allowfullscreen></iframe>
+
 ## [Bex](https://github.com/scuhooper/bex) - Made with Unity
 _Bex_ is a 2D platformer in the veins of _Mega Man_ and _Metroid_. You take control of an employee running for her life from a warehouse that has been struck by lightning which turned the forklifts and vending machines in the building into murderous robots seeking to eliminate the player. The game has mechanics for shooting, melee attacks, dashing, and being able to use destroyed vending machines as ledges to reach new heights.
 
