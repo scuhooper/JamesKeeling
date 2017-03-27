@@ -37,6 +37,13 @@ This is a group project made for a class. It is 2D version of something like _Ro
 <br />
 <hr>
 
+## [Blocksplosion](https://github.com/scuhooper/BlockBreaker)
+### Made with Unity
+_Blocksplosion_ is an Android game where a row of blocks is added each round that continuously require more hits to destroy. The player can shoot a string of balls on their chosen path to hit as many blocks as possible and collect the pickups that give them more balls for the next round. The game is a result of an attempt to create a simple working mobile game over Spring Break. The game is also available for free via the Google Play store.
+
+<br />
+<hr>
+
 ## [Dragoon](https://github.com/scuhooper/Dragoon) - In Development
 ### Made with Unreal Engine 4
 _Dragoon_ is a project which I am currently working on as a capstone project. While the name of the repo is _Dragoon_, the game currently being made with the work is titled _Cyberpunk'd_ and puts the player as a newly created anti-virus inside of a server seeking to regain control of root. The game is a third-person perspective action game focusing on sword combat similar to _Assassin's Creed_, _The Witcher_, and _Dynasty Warriors_.
