@@ -11,7 +11,7 @@ Phone: (304)881-8326
 <hr>
 
 # Projects
-Here is a quick collection of some of the milestone projects I have worked on throughout my college career. The projects are C++ for Unreal Engine and C# for Unity. The game name header links to the repo hosting the project. Under each project is a video demonstrating some of the game.
+Here is a quick collection of some of the milestone projects I have worked on throughout my college career. The projects are C++ for Unreal Engine and C# for Unity. The game name header links to a page with more details about that particular title. Details pages have a link to the code repo as well. Under each project is a video demonstrating some of the game.
 
 ## [Viscountess](https://github.com/scuhooper/viscountess)
 ### Made with Unity
@@ -44,7 +44,7 @@ _Blocksplosion_ is an Android game where a row of blocks is added each round tha
 <br />
 <hr>
 
-## [Dragoon](https://github.com/scuhooper/Dragoon) - In Development
+## [Dragoon](https://scuhooper.github.io/Dragoon) - In Development
 ### Made with Unreal Engine 4
 _Dragoon_ is a project which I am currently working on as a capstone project. While the name of the repo is _Dragoon_, the game currently being made with the work is titled _Cyberpunk'd_ and puts the player as a newly created anti-virus inside of a server seeking to regain control of root. The game is a third-person perspective action game focusing on sword combat similar to _Assassin's Creed_, _The Witcher_, and _Dynasty Warriors_.
 
