@@ -13,7 +13,7 @@ Phone: (304)881-8326
 # Projects
 Here is a quick collection of some of the milestone projects I have worked on throughout my college career. The projects are C++ for Unreal Engine and C# for Unity. The game name header links to a page with more details about that particular title. Details pages have a link to the code repo as well. Under each project is a video demonstrating some of the game.
 
-## [Viscountess](https://github.com/scuhooper/viscountess)
+## [Viscountess](https://scuhooper.github.io/Viscountess)
 ### Made with Unity
 _The Viscountess_ is the first game I made. It is a simple 2D sidescrolling, shoot-em-up where the player controlls a starship called _The Viscountess_ and destroys endless waves of enemy ships until colliding with one. The player can also collect Missiles which are able to destroy ships in one hit. It is reminiscent of _Galaga_.
 
@@ -21,7 +21,7 @@ _The Viscountess_ is the first game I made. It is a simple 2D sidescrolling, sho
 <br />
 <hr>
 
-## [Bex](https://github.com/scuhooper/bex)
+## [Bex](https://scuhooper.github.io/Bex)
 ### Made with Unity
 _Bex_ is a 2D platformer in the veins of _Mega Man_ and _Metroid_. You take control of an employee running for her life from a warehouse that has been struck by lightning which turned the forklifts and vending machines in the building into murderous robots seeking to eliminate the player. The game has mechanics for shooting, melee attacks, dashing, and being able to use destroyed vending machines as ledges to reach new heights.
 
@@ -29,7 +29,7 @@ _Bex_ is a 2D platformer in the veins of _Mega Man_ and _Metroid_. You take cont
 <br />
 <hr>
 
-## [Hobo Hotbox Soccer](https://github.com/scuhooper/gaming2D)
+## [Hobo Hotbox Soccer](https://scuhooper.github.io/gaming2D)
 ### Made with Unity
 This is a group project made for a class. It is 2D version of something like _Rocket League_. Not all code in this project is mine, but all code worked on by me is marked with either my name around the functions or listed in the .cs file's header. For the project, I worked to implement customizable controls for two players on the same computer, the powerup effects of the various drug pickups, making the pause menu, and getting the correct configuration working for the scoreboard and game win condition.
 
@@ -37,7 +37,7 @@ This is a group project made for a class. It is 2D version of something like _Ro
 <br />
 <hr>
 
-## [Blocksplosion](https://github.com/scuhooper/BlockBreaker)
+## [Blocksplosion](https://scuhooper.github.io/BlockBreaker)
 ### Made with Unity
 _Blocksplosion_ is an Android game where a row of blocks is added each round that continuously require more hits to destroy. The player can shoot a string of balls on their chosen path to hit as many blocks as possible and collect the pickups that give them more balls for the next round. The game is a result of an attempt to create a simple working mobile game over Spring Break. The game is also available for free via the Google Play store.
 
