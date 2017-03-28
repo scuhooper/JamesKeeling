@@ -39,7 +39,9 @@ This is a group project made for a class. It is 2D version of something like _Ro
 
 ## [Blocksplosion](https://scuhooper.github.io/Blocksplosion)
 ### Made with Unity
-_Blocksplosion_ is an Android game where a row of blocks is added each round that continuously require more hits to destroy. The player can shoot a string of balls on their chosen path to hit as many blocks as possible and collect the pickups that give them more balls for the next round. The game is a result of an attempt to create a simple working mobile game over Spring Break. The game is also available for free via the Google Play store.
+_Blocksplosion_ is an Android game where a row of blocks is added each round that continuously require more hits to destroy. The player can shoot a string of balls on their chosen path to hit as many blocks as possible and collect the pickups that give them more balls for the next round. The game is a result of an attempt to create a simple working mobile game over Spring Break. 
+
+- Coming soon to the Google Play Store! Link will be provided once it is live!
 
 <br />
 <hr>
