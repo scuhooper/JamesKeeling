@@ -15,7 +15,7 @@ Here is a quick collection of some of the milestone projects I have worked on th
 
 ## [Viscountess](https://scuhooper.github.io/Viscountess)
 ### Made with Unity
-_The Viscountess_ is the first game I made. It is a simple 2D sidescrolling, shoot-em-up where the player controlls a starship called _The Viscountess_ and destroys endless waves of enemy ships until colliding with one. The player can also collect Missiles which are able to destroy ships in one hit. It is reminiscent of _Galaga_.
+_The Viscountess_ is the first game I made. It is a simple 2D side scrolling, shoot-‘em-up where the player controls a starship called _The Viscountess_ and destroys endless waves of enemy ships until colliding with one. The player can also collect Missiles which are able to destroy ships in one hit. It is reminiscent of _Galaga_.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/fn04_Soot_E" frameborder="0" allowfullscreen></iframe>
 <br />
@@ -31,7 +31,7 @@ _Bex_ is a 2D platformer in the veins of _Mega Man_ and _Metroid_. You take cont
 
 ## [Hobo Hotbox Soccer](https://scuhooper.github.io/gaming2D)
 ### Made with Unity
-This is a group project made for a class. It is 2D version of something like _Rocket League_. Not all code in this project is mine, but all code worked on by me is marked with either my name around the functions or listed in the .cs file's header. For the project, I worked to implement customizable controls for two players on the same computer, the powerup effects of the various drug pickups, making the pause menu, and getting the correct configuration working for the scoreboard and game win condition.
+This is a group project made for a class. It is 2D version of something like _Rocket League_. Not all code in this project is mine, but all code worked on by me is marked with either my name around the functions or listed in the .cs file's header. For the project, I worked to implement customizable controls for two players on the same computer, the power-up effects of the various drug pickups, making the pause menu, and getting the correct configuration working for the scoreboard and game win condition.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/-WhgPOvFbg4" frameborder="0" allowfullscreen></iframe>
 <br />
@@ -48,6 +48,6 @@ _Blocksplosion_ is an Android game where a row of blocks is added each round tha
 
 ## [Dragoon](https://scuhooper.github.io/Dragoon) - In Development
 ### Made with Unreal Engine 4
-_Dragoon_ is a project which I am currently working on as a capstone project. While the name of the repo is _Dragoon_, the game currently being made with the work is titled _Cyberpunk'd_ and puts the player as a newly created anti-virus inside of a server seeking to regain control of root. The game is a third-person perspective action game focusing on sword combat similar to _Assassin's Creed_, _The Witcher_, and _Dynasty Warriors_.
+_Dragoon_ is a project which I am currently working on as a capstone project. While the name of the repo is _Dragoon_, the game currently being made with the work is titled _Cyberpunk'd_ and puts the player as a newly created anti-virus inside of a server seeking to regain control of root. The game is a third-person perspective action game focusing on sword combat in a similar vein as _Assassin's Creed_, _The Witcher_, and _Dynasty Warriors_.
 
-The major mechanics I have implemented into the game is my take on a solution to the kung fu circle (where enemies surround the player but only ever attack one at a time), a directional grid based attack system where the player can choose the direction of their attacks similar to _Star Wars Jedi Knight: Jedi Academy_, and a prediction system using N-grams to analyze patterns in attacks from history and attempt to predict what the player will do next.
+The major mechanics I have implemented into the game is my take on a solution to the kung fu circle (where enemies surround the player but only ever attack one at a time), a directional grid based attack system where the player can choose the direction of their attacks like _Star Wars Jedi Knight: Jedi Academy_, and a prediction system using N-grams to analyze patterns in attacks from history and attempt to predict what the player will do next.
