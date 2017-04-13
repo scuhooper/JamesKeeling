@@ -28,6 +28,7 @@ _Blocksplosion_ is an Android game where a row of blocks is added each round tha
 
 - Coming soon to the Google Play Store! Link will be provided once it is live!
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/woAqWj_xFZM" frameborder="0" allowfullscreen></iframe>
 <br />
 <hr>
 
