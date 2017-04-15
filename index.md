@@ -19,6 +19,7 @@ _Dragoon_ is a project which I am currently working on as a capstone project. Wh
 
 The major mechanics I have implemented into the game is my take on a solution to the kung fu circle (where enemies surround the player but only ever attack one at a time), a directional grid based attack system where the player can choose the direction of their attacks like _Star Wars Jedi Knight: Jedi Academy_, and a prediction system using N-grams to analyze patterns in attacks from history and attempt to predict what the player will do next.
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/cFZIgq3tIok" frameborder="0" allowfullscreen></iframe>
 <br />
 <hr>
 
